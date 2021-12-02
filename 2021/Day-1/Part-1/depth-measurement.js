@@ -6,7 +6,7 @@ function readInput(path = "input.txt", encoding = "utf8", flag = "r") {
 
 function saveOutput(data, path = "output.txt", encoding = "utf8", flag = "w") {
 	fs.writeFileSync(path, data, { encoding, flag });
-}
+};
 
 const input = readInput();
 const numArr = input.split("\n").map(x => parseInt(x));
