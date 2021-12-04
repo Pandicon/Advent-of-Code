@@ -37,7 +37,7 @@ Difficulty explanation: E (Easy), M (Medium), H (Hard), - (Haven't solved yet, c
 |  1  |   S/S    | Finding 2/3 numbers summing to 2020 |
 |  2  |   S/S    | String validation, XOR |
 |  3  |   S/S    | Counting |
-|  4  |   -/-    | - |
+|  4  |   S/S    | String validation |
 |  5  |   -/-    | - |
 |  6  |   -/-    | - |
 |  7  |   -/-    | - |
