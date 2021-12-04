@@ -17,7 +17,7 @@ Difficulty explanation: E (Easy), M (Medium), H (Hard), - (Haven't solved yet, c
 |  1  |   S/S    | Number/Sum comparison |
 |  2  |   S/S    | Working with coordinates |
 |  3  |   S/S    | Finding most/least common strings |
-|  4  |   -/-    | - |
+|  4  |   S/S    | Finding the best/worst bingo board |
 |  5  |   -/-    | - |
 |  6  |   -/-    | - |
 |  7  |   -/-    | - |
