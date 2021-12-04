@@ -15,7 +15,7 @@ Difficulty explanation: E (Easy), M (Medium), H (Hard), - (Haven't solved yet, c
 | Day | Difficulty | Keywords |
 | --- |:--------:| -------------------------------:|
 |  1  |   S/S    | Finding 2/3 numbers summing to 2020 |
-|  2  |   -/-    | - |
+|  2  |   S/S    | Filtering strings, XOR |
 |  3  |   -/-    | - |
 |  4  |   -/-    | - |
 |  5  |   -/-    | - |
