@@ -49,5 +49,5 @@ Difficulty explanation: E (Easy), M (Medium), H (Hard), - (Haven't solved yet, c
 | 24  |   -/-    | - |
 | 25  |   -/-    | - |
 
-## Resources
+## References
 https://adventofcode.com/2021

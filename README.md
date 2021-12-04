@@ -10,7 +10,7 @@ In this repository you can find all of my solutions to the Advent of Code challe
 ```
 +--+ Year
    +--+ Day
-      +--+ Part 1
+      +--+ Part
          +--- README.md
          +--- input-example.txt
          +--- input.txt

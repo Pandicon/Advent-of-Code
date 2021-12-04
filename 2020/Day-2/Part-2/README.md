@@ -13,5 +13,5 @@ Given the same example list from above:
 
 **How many passwords are valid** according to the new interpretation of the policies?
 
-## Resources
+## References
 https://adventofcode.com/2020/day/2

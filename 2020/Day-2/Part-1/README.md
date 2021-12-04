@@ -19,5 +19,5 @@ In the above example, `2` passwords are valid. The middle password, `cdefg`, is 
 
 **How many passwords are valid** according to their policies?
 
-## Resources
+## References
 https://adventofcode.com/2020/day/2
