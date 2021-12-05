@@ -38,7 +38,7 @@ Difficulty explanation: E (Easy), M (Medium), H (Hard), - (Haven't solved yet, c
 |  2  |   S/S    | String validation, XOR |
 |  3  |   S/S    | Counting |
 |  4  |   S/S    | String validation |
-|  5  |   -/-    | - |
+|  5  |   S/S    | Binary numbers, finding missing number |
 |  6  |   -/-    | - |
 |  7  |   -/-    | - |
 |  8  |   -/-    | - |
