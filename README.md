@@ -39,7 +39,7 @@ Difficulty explanation: E (Easy), M (Medium), H (Hard), - (Haven't solved yet, c
 |  3  |   S/S    | Counting |
 |  4  |   S/S    | String validation |
 |  5  |   S/S    | Binary numbers, finding missing number |
-|  6  |   -/-    | - |
+|  6  |   S/S    | Finding elements present in some/all arrays |
 |  7  |   -/-    | - |
 |  8  |   -/-    | - |
 |  9  |   -/-    | - |
