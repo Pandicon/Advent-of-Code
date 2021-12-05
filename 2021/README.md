@@ -27,7 +27,7 @@ Difficulty explanation: E (Easy), M (Medium), H (Hard), - (Haven't solved yet, c
 |  2  |   S/S    | Working with coordinates |
 |  3  |   S/S    | Finding most/least common strings |
 |  4  |   S/S    | Finding the best/worst bingo board |
-|  5  |   -/-    | - |
+|  5  |   S/S    | Counting crossings |
 |  6  |   -/-    | - |
 |  7  |   -/-    | - |
 |  8  |   -/-    | - |
