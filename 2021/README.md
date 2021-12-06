@@ -28,7 +28,7 @@ Difficulty explanation: E (Easy), M (Medium), H (Hard), - (Haven't solved yet, c
 |  3  |   S/S    | Finding most/least common strings |
 |  4  |   S/S    | Finding the best/worst bingo board |
 |  5  |   S/S    | Counting crossings |
-|  6  |   -/-    | - |
+|  6  |   S/M    | Loops/Logical maths |
 |  7  |   -/-    | - |
 |  8  |   -/-    | - |
 |  9  |   -/-    | - |
