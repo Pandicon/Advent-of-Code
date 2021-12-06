@@ -10,16 +10,16 @@ function saveOutput(data, path = "output.txt", encoding = "utf8", flag = "w") {
 
 const input = readInput();
 const lines = input.replace(/\r/, "").split("\n");
-let fish = lines[0].split(",").map(x => parseInt(x));
+let fishRaw = lines[0].split(",").map(x => parseInt(x));
+const fish = new Array(9).fill(0);
+for(const d of fishRaw) {
+	fish[d] += 1;
+};
 const days = 80;
 for(let i = 0; i < days; i++) {
-	fish = fish.map(x => x-1);
-	let k = fish.indexOf(-1);
-	while(k >= 0) {
-		fish[k] = 6;
-		fish.push(8);
-		k = fish.indexOf(-1);
-	};
+	const reproducingFish = fish.shift();
+	fish.push(reproducingFish);
+	fish[6] += reproducingFish;
 };
-const result = fish.length;
+const result = fish.reduce((a, b) => a+b);
 saveOutput(result.toString());
