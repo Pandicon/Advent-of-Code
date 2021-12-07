@@ -29,7 +29,7 @@ Difficulty explanation: E (Easy), M (Medium), H (Hard), - (Haven't solved yet, c
 |  4  |   S/S    | Finding the best/worst bingo board |
 |  5  |   S/S    | Counting crossings |
 |  6  |   S/M    | Loops/Logical maths |
-|  7  |   -/-    | - |
+|  7  |   S/S    | Logical maths/Loops |
 |  8  |   -/-    | - |
 |  9  |   -/-    | - |
 | 10  |   -/-    | - |
