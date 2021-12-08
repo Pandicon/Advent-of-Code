@@ -30,7 +30,7 @@ Difficulty explanation: E (Easy), M (Medium), H (Hard), - (Haven't solved yet, c
 |  5  |   S/S    | Counting crossings |
 |  6  |   S/M    | Loops/Logical maths |
 |  7  |   S/S    | Logical maths/Loops |
-|  8  |   -/-    | - |
+|  8  |   S/H    | Loops, decoding |
 |  9  |   -/-    | - |
 | 10  |   -/-    | - |
 | 11  |   -/-    | - |
