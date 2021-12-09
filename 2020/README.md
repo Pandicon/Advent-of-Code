@@ -19,7 +19,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | [21](/2020/Day-21) | [22](/2020/Day-22) | [23](/2020/Day-23) | [24](/2020/Day-24) | [25](/2020/Day-25) | - | - |
 
 ## Summary
-Difficulty explanation: E (Easy), M (Medium), H (Hard), - (Haven't solved yet, can not judge). The difficulty is always in an A/B format, which expresses the difficulty of part 1 (A) and part 2 (B).
+Difficulty explanation: S (Simple), M (Medium), D (Difficult), - (Haven't solved yet, can not judge). The difficulty is always in an A/B format, which expresses the difficulty of part 1 (A) and part 2 (B).
 
 | Day | Difficulty | Keywords |
 | --- |:--------:| -------------------------------:|

@@ -19,7 +19,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | [20](/2021/Day-20) | [21](/2021/Day-21) | [22](/2021/Day-22) | [23](/2021/Day-23) | [24](/2021/Day-24) | [25](/2021/Day-25) | - |
 
 ## Summary
-Difficulty explanation: E (Easy), M (Medium), H (Hard), - (Haven't solved yet, can not judge). The difficulty is always in an A/B format, which expresses the difficulty of part 1 (A) and part 2 (B).
+Difficulty explanation: S (Simple), M (Medium), D (Difficult), - (Haven't solved yet, can not judge). The difficulty is always in an A/B format, which expresses the difficulty of part 1 (A) and part 2 (B).
 
 | Day | Difficulty | Keywords |
 | --- |:--------:| -------------------------------:|
@@ -31,7 +31,7 @@ Difficulty explanation: E (Easy), M (Medium), H (Hard), - (Haven't solved yet, c
 |  6  |   S/M    | Loops/Logical maths |
 |  7  |   S/S    | Logical maths/Loops |
 |  8  |   S/H    | Loops, decoding |
-|  9  |   -/-    | - |
+|  9  |   S/M    | Finding lowest number from neighbours, getting area within borders |
 | 10  |   -/-    | - |
 | 11  |   -/-    | - |
 | 12  |   -/-    | - |
