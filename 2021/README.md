@@ -32,7 +32,7 @@ Difficulty explanation: S (Simple), M (Medium), D (Difficult), - (Haven't solved
 |  7  |   S/S    | Logical maths/Loops |
 |  8  |   S/H    | Loops, decoding |
 |  9  |   S/M    | Finding lowest number from neighbours, getting area within borders |
-| 10  |   -/-    | - |
+| 10  |   S/S    | Detecting incorrect sequences, completing sequences |
 | 11  |   -/-    | - |
 | 12  |   -/-    | - |
 | 13  |   -/-    | - |
