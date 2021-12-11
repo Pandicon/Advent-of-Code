@@ -77,7 +77,7 @@ Difficulty explanation: S (Simple), M (Medium), D (Difficult), - (Haven't solved
 |  8  |   S/D    | Loops, decoding |
 |  9  |   S/M    | Finding lowest number from neighbours, getting area within borders |
 | 10  |   S/S    | Detecting incorrect sequences, completing sequences |
-| 11  |   -/-    | - |
+| 11  |   S/S    | Process simulation |
 | 12  |   -/-    | - |
 | 13  |   -/-    | - |
 | 14  |   -/-    | - |
