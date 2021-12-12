@@ -78,7 +78,7 @@ Difficulty explanation: S (Simple), M (Medium), D (Difficult), - (Haven't solved
 |  9  |   S/M    | Finding lowest number from neighbours, getting area within borders |
 | 10  |   S/S    | Detecting incorrect sequences, completing sequences |
 | 11  |   S/S    | Process simulation |
-| 12  |   -/-    | - |
+| 12  |   S/S    | Finding all paths |
 | 13  |   -/-    | - |
 | 14  |   -/-    | - |
 | 15  |   -/-    | - |
