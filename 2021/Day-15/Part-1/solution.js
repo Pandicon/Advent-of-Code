@@ -32,7 +32,7 @@ for(let y = 0; y < lines.length; y++) {
 }
 
 let endNode = [];
-while(queue.length > 1) {
+while(queue.length > 0) {
 	queue.sort((a, b) => a[3] - b[3]);
 	const curr = queue.shift();
 	const [x, y, risk, totalRisk] = curr;
