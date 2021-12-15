@@ -37,7 +37,7 @@ Difficulty explanation: S (Simple), M (Medium), D (Difficult), - (Haven't solved
 | 12  |   S/S    | Finding all paths |
 | 13  |   S/S    | Folding paper, finding overlaps |
 | 14  |   S/M    | Process simulation |
-| 15  |   -/-    | - |
+| 15  |   S/S    | Pathfinding |
 | 16  |   -/-    | - |
 | 17  |   -/-    | - |
 | 18  |   -/-    | - |
