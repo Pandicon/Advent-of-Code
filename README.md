@@ -82,7 +82,7 @@ Difficulty explanation: S (Simple), M (Medium), D (Difficult), - (Haven't solved
 | 13  |   S/S    | Folding paper, finding overlaps |
 | 14  |   S/M    | Process simulation |
 | 15  |   S/S    | Pathfinding |
-| 16  |   -/-    | - |
+| 16  |   H/H    | Decoding |
 | 17  |   -/-    | - |
 | 18  |   -/-    | - |
 | 19  |   -/-    | - |
