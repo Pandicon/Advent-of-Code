@@ -83,7 +83,7 @@ Difficulty explanation: S (Simple), M (Medium), D (Difficult), - (Haven't solved
 | 14  |   S/M    | Process simulation |
 | 15  |   S/S    | Pathfinding |
 | 16  |   H/H    | Decoding |
-| 17  |   -/-    | - |
+| 17  |   S/S    | Process simulation |
 | 18  |   -/-    | - |
 | 19  |   -/-    | - |
 | 20  |   -/-    | - |
