@@ -6,7 +6,7 @@
 > An Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.<br>
 
 Each day consists of two puzzles. To complete the challenge, you must solve all of the puzzles by December 25th.<br>
-I'm adding a README.md to each day and each part, which contains the instructions exactly as they were disaplyed on https://adventofcode.com/ (apart from some styling as that often isn't possible to do in a Markdown file).
+I'm adding a README.md to each day and each part, which contains the instructions exactly as they were displayed on https://adventofcode.com/ (apart from some styling as that often isn't possible to do in a Markdown file).
 
 ## What can you find here?
 In this repository you can find all of my solutions to the Advent of Code challenges. All of them are put into folders as shown below:
