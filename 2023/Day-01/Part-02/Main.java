@@ -28,6 +28,7 @@ public class Main {
 			}	
 			sum += first_digit * 10 + last_digit;
 		}
+		input.close();
 		System.out.println(sum);
 	}
 }
