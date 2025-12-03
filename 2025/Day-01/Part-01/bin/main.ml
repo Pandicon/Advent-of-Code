@@ -7,37 +7,37 @@ let remove_char_occurences (s : string) (c_to_remove : char) : string =
   s |> String.to_seq |> Seq.filter (fun c -> c <> c_to_remove) |> String.of_seq
 
 let read_input_full_file : string =
-  let input_raw = read_file (if run_example then "example-input.txt" else "input.txt")
+  let input_raw =
+    read_file (if run_example then "example-input.txt" else "input.txt")
   in
   remove_char_occurences input_raw '\r'
 
 let modulo (x : int) (n : int) : int =
   let rem = x mod n in
-  if rem >= 0 then rem
-  else rem + n
+  if rem >= 0 then rem else rem + n
 
 let solve (input : string) : int =
   let modulo_n = 100 and start_pos = 50 in
-  let lines = String.split_on_char '\n' input
+  let lines = String.split_on_char '\n' input in
+  let rotate (position : int) (delta : int) (score : int) : int * int =
+    let new_pos = modulo (position + delta) modulo_n in
+    (new_pos, score + if new_pos = 0 then 1 else 0)
   in
-  let rotate (position : int) (delta : int) (score : int) : (int * int) =
-    let new_pos = modulo (position + delta) (modulo_n) in
-    (new_pos, score + (if new_pos = 0 then 1 else 0))
-  in
-  let rec inner (rows_to_handle : string list) (position : int) (score : int) : int =
+  let rec inner (rows_to_handle : string list) (position : int) (score : int) :
+      int =
     match rows_to_handle with
     | [] -> score
     | row :: rest ->
-      let direction = String.sub row 0 1 and delta = int_of_string (String.sub row 1 ((String.length row) - 1)) in
-      let delta = if direction = "L" then -delta else delta in
-      let (new_pos, new_score) = rotate position delta score in
-      inner rest new_pos new_score
-  in inner lines start_pos 0
+        let direction = String.sub row 0 1
+        and delta = int_of_string (String.sub row 1 (String.length row - 1)) in
+        let delta = if direction = "L" then -delta else delta in
+        let new_pos, new_score = rotate position delta score in
+        inner rest new_pos new_score
+  in
+  inner lines start_pos 0
 
 let main =
-  let input = read_input_full_file
-  in
+  let input = read_input_full_file in
   solve input
 
-let () =
-  print_endline (string_of_int main)
+let () = print_endline (string_of_int main)
