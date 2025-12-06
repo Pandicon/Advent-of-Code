@@ -20,9 +20,12 @@ let solve (input : string) : int =
         match rem with
         | [] -> List.rev acc
         | h :: t ->
+            (* Definitely want to put a higher number at the front position -> put it there and try to insert the number that was there previously *)
             if v > h then inner h t (v :: acc)
+              (* It is never beneficial to replace a front number with a lower one *)
             else if v < h then List.rev acc @ rem
-            else inner v t (h :: acc)
+            (* If they are equal, try to insert it to the next position *)
+              else inner v t (h :: acc)
       in
       inner v seq []
     in
