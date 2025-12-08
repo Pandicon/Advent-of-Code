@@ -1,0 +1,3 @@
+(library
+ (package aoc-2025--day-04--part-02)
+ (name aoc_2025__day_04__part_02))

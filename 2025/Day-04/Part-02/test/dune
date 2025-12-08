@@ -1,0 +1,7 @@
+(test
+ (name test_aoc_2025__day_04__part_02)
+ (libraries alcotest aoc_2025__day_04__part_02)
+ (deps example-input.txt))
+
+(rule
+ (copy ../example-input.txt example-input.txt))
