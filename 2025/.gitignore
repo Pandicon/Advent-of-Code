@@ -1,3 +1,6 @@
 \_build
 \_opam
 \.vscode
+example-input.txt
+input.txt
+init_day.bat
